@@ -33,4 +33,17 @@
       color: #fff;
     }
   }
+  &.btn-outline-white {
+    border: 1px solid #fff;
+    color: #fff;
+    font-size: 16px;
+    text-transform: inherit;
+    padding: 13px 32px;
+
+    &:hover,
+    &:focus {
+      background: #fff;
+      color: #EA3B54;
+    }
+  }
 }
